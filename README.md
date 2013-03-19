@@ -5,10 +5,10 @@ a html5 file API and websocket based uploading project
 
 Features
 ==========
-Easy integration
-Drag and drop support
-Transport your files with WebSocket
-Paging supportted when read large file to your memory
+Easy integration<br>
+Drag and drop support<br>
+Transport your files with WebSocket<br>
+Paging supportted when read large file to your memory<br>
 
 
 How To Use
